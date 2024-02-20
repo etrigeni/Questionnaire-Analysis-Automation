@@ -1,6 +1,6 @@
 # Questionnaire-Analysis-Automation
 
-This script created in order to automate the analysis of data generated from questionnaires. While working on a market research company and analyzing various questionnares daily, I realised that there are repetitive steps that could be automated and save a  lot of time.
+This script created in order to automate the analysis of data generated from questionnaires. While working on a market research company and analyzing various questionnaires daily, I realised that there are repetitive steps that could be automated and save a  lot of time.
 
 In general there are two categories of questions in a questionnaire:
 - Those who have a **single answer** (simple questions)
