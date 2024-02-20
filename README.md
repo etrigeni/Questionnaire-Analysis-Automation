@@ -15,3 +15,5 @@ Ordered questions are those whose their answers have a particular order (for exa
 
 No ordered are those whose the order does not matter. For example "which is your favourite brand?"
 In this case, we want to display the answers in increasing order.
+
+This code provides the appropriate frequencies and crosstabs with minimum user interaction.
